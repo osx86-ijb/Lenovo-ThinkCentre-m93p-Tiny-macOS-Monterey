@@ -1,5 +1,5 @@
 
-# Lenovo ThinkCentre M93P Tiny - OpenCore 0.7.6 EFI for macOS Monterey
+# Lenovo ThinkCentre M93P Tiny - OpenCore 0.7.6 EFI for macOS 12.x.x
 
 This is the OpenCore 0.7.6 EFI files needed to boot the new version of macOS, macOS 12.x Monterey on the Lenovo ThinkCentre m93p Tiny.
 
