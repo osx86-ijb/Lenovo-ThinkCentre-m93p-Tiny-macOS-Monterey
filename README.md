@@ -31,8 +31,10 @@ EDIT: BlueToolFixup has been included, and should at the very least be able to g
 [![Core x86](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
 [![AGPL License](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
 ## Screenshots
-![About This Mac](https://i.ibb.co/VtmGZd7/Screen-Shot-2021-06-07-at-9-16-58-PM.png)
-![Hackintool - System](https://i.ibb.co/nkxvXG8/Screen-Shot-2021-06-09-at-11-17-32-AM.png)
+![About This Mac](https://i.ibb.co/K2vrJ3p/Screen-Shot-2021-12-10-at-5-06-29-PM.png)
+![Hackintool - System](https://i.ibb.co/2cqVBMN/Screen-Shot-2021-12-10-at-8-45-36-PM.png)
+![Hackintool - System Part II](https://i.ibb.co/B4pZbjV/Screen-Shot-2021-12-10-at-8-45-51-PM.png)
+![Hackintool - OpenCore Version Loaded](https://i.ibb.co/3C8tg72/Screen-Shot-2021-12-10-at-8-46-31-PM.png)
 ![Hackintool - Peripherals](https://i.ibb.co/Y3cvRbP/Screen-Shot-2021-06-09-at-11-17-39-AM.png)
 ![Hackintool - USB](https://i.ibb.co/vzRRL23/Screen-Shot-2021-06-09-at-11-17-50-AM.png)
 ![Hackintool - PCIe](https://i.ibb.co/LZ4bfDq/Screen-Shot-2021-06-09-at-11-18-09-AM.png)
